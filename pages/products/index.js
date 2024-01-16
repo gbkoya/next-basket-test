@@ -140,7 +140,7 @@ const ProductsHome = () => {
                 newPrice="$6.48"
               />
               <Card
-                imageSrc="/assets/images/untitled.png"
+                imageSrc="/assets/images/Untitled.png"
                 cardName="Graphic Design"
                 cardDetails="English Department"
                 oldPrice="$16.48"
@@ -156,7 +156,7 @@ const ProductsHome = () => {
                 setClassName="lg:block hidden"
               />
               <Card
-                imageSrc="/assets/images/untitled.png"
+                imageSrc="/assets/images/Untitled.png"
                 cardName="Graphic Design"
                 cardDetails="English Department"
                 oldPrice="$16.48"
