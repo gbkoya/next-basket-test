@@ -45,7 +45,7 @@ const shop = () => {
   };
 
   return (
-    <div className="w-full !font-montserrat">
+    <div className="w-full !font-montserrat lg:bg-white bg-[#FAFAFA]">
       <div className="lg:mt-12 pt-5 lg:px-28 px-8">
         <div className='bg-[#FAFAFA] pt-5 lg:-mx-28'>
           <div className='lg:mx-28'>

@@ -386,39 +386,39 @@ const ProductsHome = () => {
             <div className="lg:pl-20 lg:mr-10 lg:mt-0 mt-8 lg:w-6/12 w-full grid grid-cols-3">
               <div className="lg:mx-0 mx-1">
                 <div>
-                  <img src="/assets/images/cam.png" className="h-auto" alt="" />
+                  <img src="/assets/images/cam.png" className="h-auto w-full px-1" alt="" />
                 </div>
                 <div>
-                  <img src="/assets/images/cake.png" className="h-auto mt-2" alt="" />
+                  <img src="/assets/images/cake.png" className="h-auto mt-2 w-full px-1" alt="" />
                 </div>
                 <div>
-                  <img src="/assets/images/mountains.png" className="h-auto mt-2" alt="" />
-                </div>
-              </div>
-
-
-              <div className="lg:mx-0 mx-1">
-                <div>
-                  <img src="/assets/images/ligirl.png" className="h-auto" alt="" />
-                </div>
-                <div>
-                  <img src="/assets/images/woman.png" className="h-auto mt-2" alt="" />
-                </div>
-                <div>
-                  <img src="/assets/images/scenary.png" className="h-auto mt-2" alt="" />
+                  <img src="/assets/images/mountains.png" className="h-auto w-full mt-2 px-1" alt="" />
                 </div>
               </div>
 
 
               <div className="lg:mx-0 mx-1">
                 <div>
-                  <img src="/assets/images/building.png" className="h-auto" alt="" />
+                  <img src="/assets/images/ligirl.png" className="h-auto w-full px-1" alt="" />
                 </div>
                 <div>
-                  <img src="/assets/images/writing.png" className="h-auto mt-2" alt="" />
+                  <img src="/assets/images/woman.png" className="h-auto w-full mt-2 px-1" alt="" />
                 </div>
                 <div>
-                  <img src="/assets/images/blue.png" className="h-auto mt-2" alt="" />
+                  <img src="/assets/images/scenary.png" className="h-auto w-full mt-2 px-1" alt="" />
+                </div>
+              </div>
+
+
+              <div className="lg:mx-0 mx-1">
+                <div>
+                  <img src="/assets/images/building.png" className="h-auto w-full px-1" alt="" />
+                </div>
+                <div>
+                  <img src="/assets/images/writing.png" className="h-auto w-full mt-2 px-1" alt="" />
+                </div>
+                <div>
+                  <img src="/assets/images/blue.png" className="h-auto w-full mt-2 px-1" alt="" />
                 </div>
               </div>
             </div>
