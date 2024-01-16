@@ -1,0 +1,18 @@
+/* Add your custom styles for the arrows */
+.slick-prev,
+.slick-next {
+  font-size: 24px;
+  color: #000; /* Change the arrow color */
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: black;
+}
+
+.slick-prev {
+  left: 10px; /* Adjust the left position of the left arrow */
+}
+
+.slick-next {
+  right: 10px; /* Adjust the right position of the right arrow */
+}
